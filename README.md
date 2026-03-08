@@ -1,5 +1,5 @@
 
-# 🚀 Supersales Dashboard (Power BI)
+# 🚀 Retail_Sales_and_Customer_Analysis
 
 An end-to-end data analysis and visualization project built in **Power BI**, focused on eCommerce sales performance using Superstore-style data.
 
